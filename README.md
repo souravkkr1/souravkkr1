@@ -5,15 +5,15 @@
 <p> <img src="https://komarev.com/ghpvc/?username=souravkkr1&label=Profile%20views&color=0e75b6&style=flat" alt="souravkkr1" /> </p>
 <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souravkkr1" alt="souravkkr1" /></a> </p>
 
-- 🌱 I’m currently learning **Ful Stack Web Development**
+ 🌱 I’m currently learning **Ful Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://souravkkr1.github.io/)
+ 👨‍💻 All of my projects are available at [Portfolio](https://souravkkr1.github.io/)
 
-- 💬 Ask me about **React, JS, CSS, HTML**
+ 💬 Ask me about **React, JS, CSS, HTML**
 
-- 📫 How to reach me **kmrsourav786@gmail.com**
+ 📫 How to reach me **kmrsourav786@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yd-pu3NznYO7NWn2p_PuCmhTKWSitJ47/view)
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yd-pu3NznYO7NWn2p_PuCmhTKWSitJ47/view)
 
 
 
