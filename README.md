@@ -13,7 +13,7 @@
 
  📫 How to reach me **kmrsourav786@gmail.com**
 
- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yd-pu3NznYO7NWn2p_PuCmhTKWSitJ47/view)
+ 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1jTZcAzck4Zle3hO32YXhly5FjRf6rrGu/view?usp=sharing)
 
 
 
